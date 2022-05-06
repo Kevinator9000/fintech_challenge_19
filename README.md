@@ -26,11 +26,10 @@ this sends the transaction and gives the user a validated transaction hash, loca
 
 Now we will see if the transaction went through correctly on ganache.
 First, we will see if the Eth has been taken out of the user's account.
-We can see that Eth has been taken out of the correct account.
 
 ![](./screen_shots/address_balance.PNG)
 
-Now, on to our final step, we will see if Eth the has been added to the contractor's account.
+Now, on to our final step, we will see if the Eth has been added to the contractor's account.
 
 ![](./screen_shots/transaction_details.PNG)
 
